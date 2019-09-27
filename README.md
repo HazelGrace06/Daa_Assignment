@@ -1,8 +1,15 @@
 # Daa_Assignment
-This is a project based on LCS Algorithm, and finds 5 words similar to input word
+
+Problem Definition: Create a data set of set of words. [Minimum 50 words]
+Accept a word as input from keyboard. Find the best five possible words similar to input word
+from the data set.
+
+About this program: This is a project based on LCS Algorithm, and finds 5 words similar to input word.
+The user has to i/p a word, and this algorithm finds 5 words similar to the i/p word, 
+based on the concept of LCS(Longest Common Subsequence).
 
 
-The output of the following code is:
+A Sample Output of the following code is:
 
 ['hello', 'good', 'hi', 'hey', 'nice', 'innumeration', 'apple', 'apply', 'exchange', 'mango', 'futile', 'exponential', 'letter', 'alphabet', 'sentence', 'meaning', 'lesson', 'review', 'help', 'learn', 'watch', 'observe', 'write', 'salvation', 'returning', 'summation', 'integration', 'encyclopedia', 'thesauraus', 'dinosour', 'search', 'find', 'calendar', 'xylophone', 'sublimal', 'respiration', 'technology', 'algorithms', 'prepositions', 'conjugation', 'experienced', 'conversational', 'controversial', 'adaptation', 'wikipedia', 'stationary', 'solitude', 'spacious', 'questionnaire', 'connosieur']
 
