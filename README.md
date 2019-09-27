@@ -11,6 +11,8 @@ based on the concept of LCS(Longest Common Subsequence).
 
 A Sample Output of the following code is:
 
+Enter a word:  project
+
 ['hello', 'good', 'hi', 'hey', 'nice', 'innumeration', 'apple', 'apply', 'exchange', 'mango', 'futile', 'exponential', 'letter', 'alphabet', 'sentence', 'meaning', 'lesson', 'review', 'help', 'learn', 'watch', 'observe', 'write', 'salvation', 'returning', 'summation', 'integration', 'encyclopedia', 'thesauraus', 'dinosour', 'search', 'find', 'calendar', 'xylophone', 'sublimal', 'respiration', 'technology', 'algorithms', 'prepositions', 'conjugation', 'experienced', 'conversational', 'controversial', 'adaptation', 'wikipedia', 'stationary', 'solitude', 'spacious', 'questionnaire', 'connosieur']
 
 The LCS of each word is:
