@@ -26,7 +26,7 @@ The LCS of each word in Descending order is:
 The 5 words similar to the input word are:
 
 exponential
-prepositions
 experienced
+prepositions
 alphabet
 returning
